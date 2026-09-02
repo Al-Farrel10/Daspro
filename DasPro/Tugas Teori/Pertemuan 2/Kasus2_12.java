@@ -10,7 +10,7 @@ public class kasus2_12 {
         System.out.print("Masukkan lama menabung (tahun): ");
         int lamaMenabung = input.nextInt();
 
-        System.out.print("Masukkan bunag dalam %: ");
+        System.out.print("Masukkan bunga dalam %: ");
         double persentaseBunga = input.nextDouble(); // 2% per tahun
         persentaseBunga = persentaseBunga / 100;
 
