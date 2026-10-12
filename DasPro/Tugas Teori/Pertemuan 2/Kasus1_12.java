@@ -19,3 +19,4 @@ public class Kasus1_12 {
         input.close();
     }
 }
+//tes
