@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class kasus2_12 {
+public class Kasus2_12 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
